@@ -8,6 +8,8 @@ This extension adds a link in the content table view, so that you have a shortcu
 
 ## Installation Instructions
 
+https://www.loom.com/share/140daf5baf8d4f4bb5173a3a55c6c66d
+
 1. On your project dashboard, go to **Settings > UI Extensions**
 1. Click on Add UI Extension button
 1. In the Extension URL field, enter this URL: https://preview-url-uix.vercel.app/, then click on **Run compatibility test**
