@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
-import EyeIcon from './eye-regular.svg';
-import PreviewIcon from '../../public/external-link-line.svg';
+import PreviewIcon from '../assets/external-link-line.svg';
 
 import {
     Wrapper,
