@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import EyeIcon from './eye-regular.svg';
+import PreviewIcon from '../../public/external-link-line.svg';
 
 import {
     Wrapper,
@@ -29,7 +30,7 @@ const PreviewUrl = () => {
                     <a href={previewUrl} target={`_blank`} style={{
                         padding: '1em'
                     }}>
-                        <img src={EyeIcon} alt='Preview' width={19} />
+                        <img src={PreviewIcon} title='Click to Preview' alt='Click to Preview' width={19} />
                     </a>
                 </div>
             </>
